@@ -27,8 +27,8 @@ This CPU includes Program counter, register file, Instruction Memory, ALU, contr
 <h2 id="ISA" align="center"> Instruction Set Architecture </h2>
 <h3 id="basic">Basic ISA</h3>
 
-<img src=".ISA/isa1.png" width=100%></img>
-<img src=".ISA/isa2.png" width=100%></img>
+<img src="ISA/isa1.png" width=100%></img>
+<img src="ISA/isa2.png" width=100%></img>
 
 * * *
 
